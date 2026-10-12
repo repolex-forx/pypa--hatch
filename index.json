@@ -1,0 +1,11 @@
+{
+  "org": "pypa",
+  "repo": "hatch",
+  "versions": [
+    {
+      "commit": "7c26ebeaf8b83f5f0374a2545bb15e36c87db0d0",
+      "tag": "",
+      "parsed_at": "2026-10-12T21:05:40.288905+00:00"
+    }
+  ]
+}
